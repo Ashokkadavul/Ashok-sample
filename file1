@@ -5,5 +5,4 @@ int a=5,b=6,c;
 c=a+b;
 printf("%d",c);
 printf("Commit-1 added");
-printf("Commit-2 added");
 }
